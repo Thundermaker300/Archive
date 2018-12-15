@@ -76,3 +76,4 @@ typings/
 .fusebox/
 
 src/config/private.json
+package-lock.json
